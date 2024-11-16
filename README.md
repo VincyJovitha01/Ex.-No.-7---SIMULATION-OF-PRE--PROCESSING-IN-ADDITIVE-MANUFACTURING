@@ -44,7 +44,7 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/157f234a-5268-4e75-bfd4-9bba44d98113)
 
 ### Name:Vincy Jovitha V
 ### Register Number: 212223230242
